@@ -1289,7 +1289,7 @@ packages:
   timestamp: 1764896838868
 - conda: .
   name: project-name
-  version: 0.0.0
+  version: 0.0.1
   build: pyh4616a5c_0
   subdir: noarch
   variants:

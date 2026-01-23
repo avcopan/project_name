@@ -1,6 +1,6 @@
 [project]
 name = "project-name"
-version = "0.0.0"
+version = "0.0.1"
 authors = [{name = "Your Name", email = "email@example.com"}]
 requires-python = ">= 3.11"
 dependencies = []

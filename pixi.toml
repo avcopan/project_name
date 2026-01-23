@@ -8,7 +8,7 @@ project-name = { path = "." }
 
 [package]
 name = "project-name"
-version = "0.0.0"
+version = "0.0.1"
 
 [package.build]
 backend = { name = "pixi-build-python", version = "*" }
